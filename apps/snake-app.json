@@ -1,0 +1,17 @@
+{
+    "name": "Snake Game",
+    "version": "1.0.0",
+    "author": "Th3-C0der",
+    "description": "Classic Snake game with modern controls",
+    "icon": "gamepad",
+    "main": "snake.js",
+    "type": "game",
+    "permissions": ["storage"],
+    "window": {
+        "width": 400,
+        "height": 400,
+        "resizable": true,
+        "minWidth": 300,
+        "minHeight": 300
+    }
+} 
