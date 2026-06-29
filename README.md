@@ -1,5 +1,6 @@
 # Th3-Web-OS
 
+(Just a random buggy project made few years ago)
 A web-based operating system playground built with HTML, CSS, and JavaScript.
 
 ## Features
